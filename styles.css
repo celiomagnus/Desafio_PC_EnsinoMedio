@@ -1,0 +1,23 @@
+body {
+    margin-top: 50px;
+    height: 100vh;
+    background-color: rgb(212, 201, 187);
+}
+
+section{
+   
+}
+
+.box1 {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(25, 122, 154);
+    
+}
+
+.box2 {
+    width: 300px;
+    height: 300px;
+    background-color: lightblue;
+    
+}
