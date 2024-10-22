@@ -5,7 +5,8 @@ body {
 }
 
 section{
-   
+   display: flex;
+   justify-content: center;
 }
 
 .box1 {
